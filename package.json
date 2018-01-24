@@ -1,0 +1,27 @@
+{
+  "name": "irajs-helper",
+  "version": "0.1.0",
+  "description": "集成常见的 helper 辅助工具",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzira/irajs-helper.git"
+  },
+  "keywords": [],
+  "author": "zysam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gzira/irajs-helper/issues"
+  },
+  "homepage": "https://github.com/gzira/irajs-helper#readme",
+  "dependencies": {
+    "mongoose": "^5.0.1",
+    "mongoose-paginate": "^5.0.3"
+  }
+}
